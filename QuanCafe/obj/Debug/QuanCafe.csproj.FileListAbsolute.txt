@@ -1,0 +1,79 @@
+C:\Users\muctr\Desktop\workspace\Linh\QuanCafe\QuanCafe\bin\Debug\QuanCafe.exe.config
+C:\Users\muctr\Desktop\workspace\Linh\QuanCafe\QuanCafe\bin\Debug\QuanCafe.exe
+C:\Users\muctr\Desktop\workspace\Linh\QuanCafe\QuanCafe\bin\Debug\QuanCafe.pdb
+C:\Users\muctr\Desktop\workspace\Linh\QuanCafe\QuanCafe\obj\Debug\QuanCafe.csproj.AssemblyReference.cache
+C:\Users\muctr\Desktop\workspace\Linh\QuanCafe\QuanCafe\obj\Debug\QuanCafe.Form1.resources
+C:\Users\muctr\Desktop\workspace\Linh\QuanCafe\QuanCafe\obj\Debug\QuanCafe.Login.resources
+C:\Users\muctr\Desktop\workspace\Linh\QuanCafe\QuanCafe\obj\Debug\QuanCafe.Menu.resources
+C:\Users\muctr\Desktop\workspace\Linh\QuanCafe\QuanCafe\obj\Debug\QuanCafe.Properties.Resources.resources
+C:\Users\muctr\Desktop\workspace\Linh\QuanCafe\QuanCafe\obj\Debug\QuanCafe.csproj.GenerateResource.cache
+C:\Users\muctr\Desktop\workspace\Linh\QuanCafe\QuanCafe\obj\Debug\QuanCafe.csproj.CoreCompileInputs.cache
+C:\Users\muctr\Desktop\workspace\Linh\QuanCafe\QuanCafe\obj\Debug\QuanCafe.exe
+C:\Users\muctr\Desktop\workspace\Linh\QuanCafe\QuanCafe\obj\Debug\QuanCafe.pdb
+C:\Users\muctr\Desktop\workspace\coffee_manager\QuanCafe\QuanCafe\bin\Debug\QuanCafe.exe.config
+C:\Users\muctr\Desktop\workspace\coffee_manager\QuanCafe\QuanCafe\bin\Debug\QuanCafe.exe
+C:\Users\muctr\Desktop\workspace\coffee_manager\QuanCafe\QuanCafe\bin\Debug\QuanCafe.pdb
+C:\Users\muctr\Desktop\workspace\coffee_manager\QuanCafe\QuanCafe\obj\Debug\QuanCafe.csproj.AssemblyReference.cache
+C:\Users\muctr\Desktop\workspace\coffee_manager\QuanCafe\QuanCafe\obj\Debug\QuanCafe.Login.resources
+C:\Users\muctr\Desktop\workspace\coffee_manager\QuanCafe\QuanCafe\obj\Debug\QuanCafe.Menu.resources
+C:\Users\muctr\Desktop\workspace\coffee_manager\QuanCafe\QuanCafe\obj\Debug\QuanCafe.Properties.Resources.resources
+C:\Users\muctr\Desktop\workspace\coffee_manager\QuanCafe\QuanCafe\obj\Debug\QuanCafe.csproj.GenerateResource.cache
+C:\Users\muctr\Desktop\workspace\coffee_manager\QuanCafe\QuanCafe\obj\Debug\QuanCafe.csproj.CoreCompileInputs.cache
+C:\Users\muctr\Desktop\workspace\coffee_manager\QuanCafe\QuanCafe\obj\Debug\QuanCafe.exe
+C:\Users\muctr\Desktop\workspace\coffee_manager\QuanCafe\QuanCafe\obj\Debug\QuanCafe.pdb
+C:\Users\muctr\Desktop\workspace\coffee_manager\QuanCafe\QuanCafe\obj\Debug\QuanCafe.Banner.resources
+C:\Users\muctr\Desktop\workspace\QuanCafe\QuanCafe\obj\Debug\QuanCafe.csproj.AssemblyReference.cache
+C:\Users\muctr\Desktop\workspace\QuanCafe\QuanCafe\obj\Debug\QuanCafe.Banner.resources
+C:\Users\muctr\Desktop\workspace\QuanCafe\QuanCafe\obj\Debug\QuanCafe.Login.resources
+C:\Users\muctr\Desktop\workspace\QuanCafe\QuanCafe\obj\Debug\QuanCafe.Properties.Resources.resources
+C:\Users\muctr\Desktop\workspace\QuanCafe\QuanCafe\obj\Debug\QuanCafe.csproj.GenerateResource.cache
+C:\Users\muctr\Desktop\workspace\QuanCafe\QuanCafe\obj\Debug\QuanCafe.csproj.CoreCompileInputs.cache
+C:\Users\muctr\Desktop\workspace\QuanCafe\QuanCafe\obj\Debug\QuanCafe.exe
+C:\Users\muctr\Desktop\workspace\QuanCafe\QuanCafe\obj\Debug\QuanCafe.pdb
+C:\Users\muctr\Desktop\workspace\QuanCafe\QuanCafe\bin\Debug\QuanCafe.exe.config
+C:\Users\muctr\Desktop\workspace\QuanCafe\QuanCafe\bin\Debug\QuanCafe.exe
+C:\Users\muctr\Desktop\workspace\QuanCafe\QuanCafe\bin\Debug\QuanCafe.pdb
+C:\Users\muctr\Desktop\workspace\QuanCafe\QuanCafe\obj\Debug\QuanCafe.TableManager.resources
+C:\Users\muctr\Desktop\workspace\QuanCafe\QuanCafe\obj\Debug\QuanCafe.GUI.AccountProfile.resources
+C:\Users\muctr\Desktop\workspace\QuanCafe\QuanCafe\obj\Debug\QuanCafe.GUI.Admin.resources
+C:\QuanCafe\QuanCafe\bin\Debug\QuanCafe.exe.config
+C:\QuanCafe\QuanCafe\bin\Debug\QuanCafe.exe
+C:\QuanCafe\QuanCafe\bin\Debug\QuanCafe.pdb
+C:\QuanCafe\QuanCafe\obj\Debug\QuanCafe.csproj.AssemblyReference.cache
+C:\QuanCafe\QuanCafe\obj\Debug\QuanCafe.GUI.AccountProfile.resources
+C:\QuanCafe\QuanCafe\obj\Debug\QuanCafe.GUI.Admin.resources
+C:\QuanCafe\QuanCafe\obj\Debug\QuanCafe.Banner.resources
+C:\QuanCafe\QuanCafe\obj\Debug\QuanCafe.Login.resources
+C:\QuanCafe\QuanCafe\obj\Debug\QuanCafe.TableManager.resources
+C:\QuanCafe\QuanCafe\obj\Debug\QuanCafe.Properties.Resources.resources
+C:\QuanCafe\QuanCafe\obj\Debug\QuanCafe.csproj.GenerateResource.cache
+C:\QuanCafe\QuanCafe\obj\Debug\QuanCafe.csproj.CoreCompileInputs.cache
+C:\QuanCafe\QuanCafe\obj\Debug\QuanCafe.exe
+C:\QuanCafe\QuanCafe\obj\Debug\QuanCafe.pdb
+C:\Users\muctr\Downloads\QuanCafee\QuanCafe\QuanCafe\bin\Debug\QuanCafe.exe.config
+C:\Users\muctr\Downloads\QuanCafee\QuanCafe\QuanCafe\bin\Debug\QuanCafe.exe
+C:\Users\muctr\Downloads\QuanCafee\QuanCafe\QuanCafe\bin\Debug\QuanCafe.pdb
+C:\Users\muctr\Downloads\QuanCafee\QuanCafe\QuanCafe\obj\Debug\QuanCafe.csproj.AssemblyReference.cache
+C:\Users\muctr\Downloads\QuanCafee\QuanCafe\QuanCafe\obj\Debug\QuanCafe.GUI.AccountProfile.resources
+C:\Users\muctr\Downloads\QuanCafee\QuanCafe\QuanCafe\obj\Debug\QuanCafe.GUI.Admin.resources
+C:\Users\muctr\Downloads\QuanCafee\QuanCafe\QuanCafe\obj\Debug\QuanCafe.Banner.resources
+C:\Users\muctr\Downloads\QuanCafee\QuanCafe\QuanCafe\obj\Debug\QuanCafe.Login.resources
+C:\Users\muctr\Downloads\QuanCafee\QuanCafe\QuanCafe\obj\Debug\QuanCafe.TableManager.resources
+C:\Users\muctr\Downloads\QuanCafee\QuanCafe\QuanCafe\obj\Debug\QuanCafe.Properties.Resources.resources
+C:\Users\muctr\Downloads\QuanCafee\QuanCafe\QuanCafe\obj\Debug\QuanCafe.csproj.GenerateResource.cache
+C:\Users\muctr\Downloads\QuanCafee\QuanCafe\QuanCafe\obj\Debug\QuanCafe.csproj.CoreCompileInputs.cache
+C:\Users\muctr\Downloads\QuanCafee\QuanCafe\QuanCafe\obj\Debug\QuanCafe.exe
+C:\Users\muctr\Downloads\QuanCafee\QuanCafe\QuanCafe\obj\Debug\QuanCafe.pdb
+C:\Users\muctr\Downloads\QuanCafe (2)\QuanCafee\QuanCafe\QuanCafe\bin\Debug\QuanCafe.exe.config
+C:\Users\muctr\Downloads\QuanCafe (2)\QuanCafee\QuanCafe\QuanCafe\bin\Debug\QuanCafe.exe
+C:\Users\muctr\Downloads\QuanCafe (2)\QuanCafee\QuanCafe\QuanCafe\bin\Debug\QuanCafe.pdb
+C:\Users\muctr\Downloads\QuanCafe (2)\QuanCafee\QuanCafe\QuanCafe\obj\Debug\QuanCafe.csproj.AssemblyReference.cache
+C:\Users\muctr\Downloads\QuanCafe (2)\QuanCafee\QuanCafe\QuanCafe\obj\Debug\QuanCafe.GUI.Admin.resources
+C:\Users\muctr\Downloads\QuanCafe (2)\QuanCafee\QuanCafe\QuanCafe\obj\Debug\QuanCafe.Banner.resources
+C:\Users\muctr\Downloads\QuanCafe (2)\QuanCafee\QuanCafe\QuanCafe\obj\Debug\QuanCafe.Login.resources
+C:\Users\muctr\Downloads\QuanCafe (2)\QuanCafee\QuanCafe\QuanCafe\obj\Debug\QuanCafe.TableManager.resources
+C:\Users\muctr\Downloads\QuanCafe (2)\QuanCafee\QuanCafe\QuanCafe\obj\Debug\QuanCafe.Properties.Resources.resources
+C:\Users\muctr\Downloads\QuanCafe (2)\QuanCafee\QuanCafe\QuanCafe\obj\Debug\QuanCafe.csproj.GenerateResource.cache
+C:\Users\muctr\Downloads\QuanCafe (2)\QuanCafee\QuanCafe\QuanCafe\obj\Debug\QuanCafe.csproj.CoreCompileInputs.cache
+C:\Users\muctr\Downloads\QuanCafe (2)\QuanCafee\QuanCafe\QuanCafe\obj\Debug\QuanCafe.exe
+C:\Users\muctr\Downloads\QuanCafe (2)\QuanCafee\QuanCafe\QuanCafe\obj\Debug\QuanCafe.pdb

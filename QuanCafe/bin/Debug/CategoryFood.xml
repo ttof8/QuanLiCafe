@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CategoryFoods>
+	<Category>
+		<idType>1</idType>
+		<nameType>Cà phê</nameType>
+	</Category>
+	<Category>
+		<idType>2</idType>
+		<nameType>Trà sữa</nameType>
+	</Category>
+	<Category>
+		<idType>3</idType>
+		<nameType>Nước ép</nameType>
+	</Category>
+	<Category>
+		<idType>4</idType>
+		<nameType>Bánh ngọt</nameType>
+	</Category>
+</CategoryFoods>

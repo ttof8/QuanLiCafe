@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\QuanCafe\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{580CF40E-69BA-49FE-91D9-35D8C909C078}|QuanCafe\\QuanCafe.csproj|C:\\QuanCafe\\quancafe\\gui\\accountprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{580CF40E-69BA-49FE-91D9-35D8C909C078}|QuanCafe\\QuanCafe.csproj|solutionrelative:quancafe\\gui\\accountprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{580CF40E-69BA-49FE-91D9-35D8C909C078}|QuanCafe\\QuanCafe.csproj|c:\\quancafe\\quancafe\\gui\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{580CF40E-69BA-49FE-91D9-35D8C909C078}|QuanCafe\\QuanCafe.csproj|solutionrelative:quancafe\\gui\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{580CF40E-69BA-49FE-91D9-35D8C909C078}|QuanCafe\\QuanCafe.csproj|C:\\QuanCafe\\quancafe\\gui\\tablemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{580CF40E-69BA-49FE-91D9-35D8C909C078}|QuanCafe\\QuanCafe.csproj|solutionrelative:quancafe\\gui\\tablemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{580CF40E-69BA-49FE-91D9-35D8C909C078}|QuanCafe\\QuanCafe.csproj|C:\\QuanCafe\\quancafe\\gui\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{580CF40E-69BA-49FE-91D9-35D8C909C078}|QuanCafe\\QuanCafe.csproj|solutionrelative:quancafe\\gui\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{580CF40E-69BA-49FE-91D9-35D8C909C078}|QuanCafe\\QuanCafe.csproj|C:\\QuanCafe\\quancafe\\gui\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{580CF40E-69BA-49FE-91D9-35D8C909C078}|QuanCafe\\QuanCafe.csproj|solutionrelative:quancafe\\gui\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{580CF40E-69BA-49FE-91D9-35D8C909C078}|QuanCafe\\QuanCafe.csproj|c:\\quancafe\\quancafe\\gui\\banner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{580CF40E-69BA-49FE-91D9-35D8C909C078}|QuanCafe\\QuanCafe.csproj|solutionrelative:quancafe\\gui\\banner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Banner.cs [Design]",
+              "DocumentMoniker": "C:\\QuanCafe\\QuanCafe\\GUI\\Banner.cs",
+              "RelativeDocumentMoniker": "QuanCafe\\GUI\\Banner.cs",
+              "ToolTip": "C:\\QuanCafe\\QuanCafe\\GUI\\Banner.cs [Design]",
+              "RelativeToolTip": "QuanCafe\\GUI\\Banner.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T09:18:52.134Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\QuanCafe\\QuanCafe\\GUI\\Admin.cs",
+              "RelativeDocumentMoniker": "QuanCafe\\GUI\\Admin.cs",
+              "ToolTip": "C:\\QuanCafe\\QuanCafe\\GUI\\Admin.cs",
+              "RelativeToolTip": "QuanCafe\\GUI\\Admin.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAiwFoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T06:16:29.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Admin.cs [Design]",
+              "DocumentMoniker": "C:\\QuanCafe\\QuanCafe\\GUI\\Admin.cs",
+              "RelativeDocumentMoniker": "QuanCafe\\GUI\\Admin.cs",
+              "ToolTip": "C:\\QuanCafe\\QuanCafe\\GUI\\Admin.cs [Design]",
+              "RelativeToolTip": "QuanCafe\\GUI\\Admin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T06:16:29.564Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TableManager.cs [Design]",
+              "DocumentMoniker": "C:\\QuanCafe\\QuanCafe\\GUI\\TableManager.cs",
+              "RelativeDocumentMoniker": "QuanCafe\\GUI\\TableManager.cs",
+              "ToolTip": "C:\\QuanCafe\\QuanCafe\\GUI\\TableManager.cs [Design]",
+              "RelativeToolTip": "QuanCafe\\GUI\\TableManager.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T06:16:29.57Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "C:\\QuanCafe\\QuanCafe\\GUI\\Login.cs",
+              "RelativeDocumentMoniker": "QuanCafe\\GUI\\Login.cs",
+              "ToolTip": "C:\\QuanCafe\\QuanCafe\\GUI\\Login.cs [Design]",
+              "RelativeToolTip": "QuanCafe\\GUI\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T06:16:29.573Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountProfile.cs [Design]",
+              "DocumentMoniker": "C:\\QuanCafe\\QuanCafe\\GUI\\AccountProfile.cs",
+              "RelativeDocumentMoniker": "QuanCafe\\GUI\\AccountProfile.cs",
+              "ToolTip": "C:\\QuanCafe\\QuanCafe\\GUI\\AccountProfile.cs [Design]",
+              "RelativeToolTip": "QuanCafe\\GUI\\AccountProfile.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T06:16:29.575Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

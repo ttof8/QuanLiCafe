@@ -1,0 +1,218 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\muctr\\Downloads\\QuanCafe (2)\\QuanCafee\\QuanCafe\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{580CF40E-69BA-49FE-91D9-35D8C909C078}|QuanCafe\\QuanCafe.csproj|C:\\Users\\muctr\\Downloads\\QuanCafe (2)\\QuanCafee\\QuanCafe\\quancafe\\gui\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{580CF40E-69BA-49FE-91D9-35D8C909C078}|QuanCafe\\QuanCafe.csproj|solutionrelative:quancafe\\gui\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{580CF40E-69BA-49FE-91D9-35D8C909C078}|QuanCafe\\QuanCafe.csproj|C:\\Users\\muctr\\Downloads\\QuanCafe (2)\\QuanCafee\\QuanCafe\\quancafe\\gui\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{580CF40E-69BA-49FE-91D9-35D8C909C078}|QuanCafe\\QuanCafe.csproj|solutionrelative:quancafe\\gui\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{580CF40E-69BA-49FE-91D9-35D8C909C078}|QuanCafe\\QuanCafe.csproj|C:\\Users\\muctr\\Downloads\\QuanCafe (2)\\QuanCafee\\QuanCafe\\quancafe\\gui\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{580CF40E-69BA-49FE-91D9-35D8C909C078}|QuanCafe\\QuanCafe.csproj|solutionrelative:quancafe\\gui\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{580CF40E-69BA-49FE-91D9-35D8C909C078}|QuanCafe\\QuanCafe.csproj|C:\\Users\\muctr\\Downloads\\QuanCafe (2)\\QuanCafee\\QuanCafe\\quancafe\\gui\\banner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{580CF40E-69BA-49FE-91D9-35D8C909C078}|QuanCafe\\QuanCafe.csproj|solutionrelative:quancafe\\gui\\banner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{580CF40E-69BA-49FE-91D9-35D8C909C078}|QuanCafe\\QuanCafe.csproj|C:\\Users\\muctr\\Downloads\\QuanCafe (2)\\QuanCafee\\QuanCafe\\quancafe\\gui\\tablemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{580CF40E-69BA-49FE-91D9-35D8C909C078}|QuanCafe\\QuanCafe.csproj|solutionrelative:quancafe\\gui\\tablemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{580CF40E-69BA-49FE-91D9-35D8C909C078}|QuanCafe\\QuanCafe.csproj|C:\\Users\\muctr\\Downloads\\QuanCafe (2)\\QuanCafee\\QuanCafe\\quancafe\\gui\\tablemanager.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{580CF40E-69BA-49FE-91D9-35D8C909C078}|QuanCafe\\QuanCafe.csproj|solutionrelative:quancafe\\gui\\tablemanager.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{580CF40E-69BA-49FE-91D9-35D8C909C078}|QuanCafe\\QuanCafe.csproj|C:\\Users\\muctr\\Downloads\\QuanCafe (2)\\QuanCafee\\QuanCafe\\quancafe\\gui\\tablemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{580CF40E-69BA-49FE-91D9-35D8C909C078}|QuanCafe\\QuanCafe.csproj|solutionrelative:quancafe\\gui\\tablemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{580CF40E-69BA-49FE-91D9-35D8C909C078}|QuanCafe\\QuanCafe.csproj|C:\\Users\\muctr\\Downloads\\QuanCafe (2)\\QuanCafee\\QuanCafe\\quancafe\\gui\\admin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{580CF40E-69BA-49FE-91D9-35D8C909C078}|QuanCafe\\QuanCafe.csproj|solutionrelative:quancafe\\gui\\admin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{580CF40E-69BA-49FE-91D9-35D8C909C078}|QuanCafe\\QuanCafe.csproj|C:\\Users\\muctr\\Downloads\\QuanCafe (2)\\QuanCafee\\QuanCafe\\quancafe\\gui\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{580CF40E-69BA-49FE-91D9-35D8C909C078}|QuanCafe\\QuanCafe.csproj|solutionrelative:quancafe\\gui\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{580CF40E-69BA-49FE-91D9-35D8C909C078}|QuanCafe\\QuanCafe.csproj|C:\\Users\\muctr\\Downloads\\QuanCafe (2)\\QuanCafee\\QuanCafe\\quancafe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{580CF40E-69BA-49FE-91D9-35D8C909C078}|QuanCafe\\QuanCafe.csproj|solutionrelative:quancafe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{580CF40E-69BA-49FE-91D9-35D8C909C078}|QuanCafe\\QuanCafe.csproj|C:\\Users\\muctr\\Downloads\\QuanCafe (2)\\QuanCafee\\QuanCafe\\quancafe\\gui\\banner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{580CF40E-69BA-49FE-91D9-35D8C909C078}|QuanCafe\\QuanCafe.csproj|solutionrelative:quancafe\\gui\\banner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\Users\\muctr\\Downloads\\QuanCafe (2)\\QuanCafee\\QuanCafe\\QuanCafe\\GUI\\Admin.cs",
+              "RelativeDocumentMoniker": "QuanCafe\\GUI\\Admin.cs",
+              "ToolTip": "C:\\Users\\muctr\\Downloads\\QuanCafe (2)\\QuanCafee\\QuanCafe\\QuanCafe\\GUI\\Admin.cs",
+              "RelativeToolTip": "QuanCafe\\GUI\\Admin.cs",
+              "ViewState": "AgIAACEBAAAAAAAAAAAswFEBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T12:21:01.315Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Admin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\muctr\\Downloads\\QuanCafe (2)\\QuanCafee\\QuanCafe\\QuanCafe\\GUI\\Admin.cs",
+              "RelativeDocumentMoniker": "QuanCafe\\GUI\\Admin.cs",
+              "ToolTip": "C:\\Users\\muctr\\Downloads\\QuanCafe (2)\\QuanCafee\\QuanCafe\\QuanCafe\\GUI\\Admin.cs [Design]",
+              "RelativeToolTip": "QuanCafe\\GUI\\Admin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T05:23:12.75Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Banner.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\muctr\\Downloads\\QuanCafe (2)\\QuanCafee\\QuanCafe\\QuanCafe\\GUI\\Banner.cs",
+              "RelativeDocumentMoniker": "QuanCafe\\GUI\\Banner.cs",
+              "ToolTip": "C:\\Users\\muctr\\Downloads\\QuanCafee\\QuanCafe\\QuanCafe\\GUI\\Banner.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\QuanCafee\\QuanCafe\\QuanCafe\\GUI\\Banner.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T18:47:24.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TableManager.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\muctr\\Downloads\\QuanCafe (2)\\QuanCafee\\QuanCafe\\QuanCafe\\GUI\\TableManager.Designer.cs",
+              "RelativeDocumentMoniker": "QuanCafe\\GUI\\TableManager.Designer.cs",
+              "ToolTip": "C:\\Users\\muctr\\Downloads\\QuanCafe (2)\\QuanCafee\\QuanCafe\\QuanCafe\\GUI\\TableManager.Designer.cs",
+              "RelativeToolTip": "QuanCafe\\GUI\\TableManager.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwBAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T12:25:02.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TableManager.cs",
+              "DocumentMoniker": "C:\\Users\\muctr\\Downloads\\QuanCafe (2)\\QuanCafee\\QuanCafe\\QuanCafe\\GUI\\TableManager.cs",
+              "RelativeDocumentMoniker": "QuanCafe\\GUI\\TableManager.cs",
+              "ToolTip": "C:\\Users\\muctr\\Downloads\\QuanCafe (2)\\QuanCafee\\QuanCafe\\QuanCafe\\GUI\\TableManager.cs",
+              "RelativeToolTip": "QuanCafe\\GUI\\TableManager.cs",
+              "ViewState": "AgIAAI8CAAAAAAAAAAAAAJgCAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T08:37:52.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TableManager.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\muctr\\Downloads\\QuanCafe (2)\\QuanCafee\\QuanCafe\\QuanCafe\\GUI\\TableManager.cs",
+              "RelativeDocumentMoniker": "QuanCafe\\GUI\\TableManager.cs",
+              "ToolTip": "C:\\Users\\muctr\\Downloads\\QuanCafee\\QuanCafe\\QuanCafe\\GUI\\TableManager.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\QuanCafee\\QuanCafe\\QuanCafe\\GUI\\TableManager.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T18:23:20.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\muctr\\Downloads\\QuanCafe (2)\\QuanCafee\\QuanCafe\\QuanCafe\\GUI\\Login.cs",
+              "RelativeDocumentMoniker": "QuanCafe\\GUI\\Login.cs",
+              "ToolTip": "C:\\Users\\muctr\\Downloads\\QuanCafee\\QuanCafe\\QuanCafe\\GUI\\Login.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\QuanCafee\\QuanCafe\\QuanCafe\\GUI\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T02:45:41.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Admin.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\muctr\\Downloads\\QuanCafe (2)\\QuanCafee\\QuanCafe\\QuanCafe\\GUI\\Admin.Designer.cs",
+              "RelativeDocumentMoniker": "QuanCafe\\GUI\\Admin.Designer.cs",
+              "ToolTip": "C:\\Users\\muctr\\Downloads\\QuanCafe (2)\\QuanCafee\\QuanCafe\\QuanCafe\\GUI\\Admin.Designer.cs",
+              "RelativeToolTip": "QuanCafe\\GUI\\Admin.Designer.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAswAICAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T06:52:50.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\muctr\\Downloads\\QuanCafe (2)\\QuanCafee\\QuanCafe\\QuanCafe\\GUI\\Login.cs",
+              "RelativeDocumentMoniker": "QuanCafe\\GUI\\Login.cs",
+              "ToolTip": "C:\\Users\\muctr\\Downloads\\QuanCafe (2)\\QuanCafee\\QuanCafe\\QuanCafe\\GUI\\Login.cs",
+              "RelativeToolTip": "QuanCafe\\GUI\\Login.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAYwDQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T00:09:02.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\muctr\\Downloads\\QuanCafe (2)\\QuanCafee\\QuanCafe\\QuanCafe\\Program.cs",
+              "RelativeDocumentMoniker": "QuanCafe\\Program.cs",
+              "ToolTip": "C:\\Users\\muctr\\Downloads\\QuanCafe (2)\\QuanCafee\\QuanCafe\\QuanCafe\\Program.cs",
+              "RelativeToolTip": "QuanCafe\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T07:30:33.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Banner.cs",
+              "DocumentMoniker": "C:\\Users\\muctr\\Downloads\\QuanCafe (2)\\QuanCafee\\QuanCafe\\QuanCafe\\GUI\\Banner.cs",
+              "RelativeDocumentMoniker": "QuanCafe\\GUI\\Banner.cs",
+              "ToolTip": "C:\\Users\\muctr\\Downloads\\QuanCafe (2)\\QuanCafee\\QuanCafe\\QuanCafe\\GUI\\Banner.cs",
+              "RelativeToolTip": "QuanCafe\\GUI\\Banner.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAkwBsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T00:08:56.63Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Seats>
+  <Seat>
+    <id>1</id>
+    <nameTable>Bàn 1</nameTable>
+    <statusTable>Trống</statusTable>
+  </Seat>
+  <Seat>
+    <id>2</id>
+    <nameTable>Bàn 2</nameTable>
+    <statusTable>Trống</statusTable>
+  </Seat>
+  <Seat>
+    <id>3</id>
+    <nameTable>Bàn 3</nameTable>
+    <statusTable>Trống</statusTable>
+  </Seat>
+  <Seat>
+    <id>4</id>
+    <nameTable>Bàn 4</nameTable>
+    <statusTable>Trống</statusTable>
+  </Seat>
+  <Seat>
+    <id>9</id>
+    <nameTable>Bàn 9</nameTable>
+    <statusTable>Trống</statusTable>
+  </Seat>
+  <Seat>
+    <id>5</id>
+    <nameTable>Bàn 5</nameTable>
+    <statusTable>Trống</statusTable>
+  </Seat>
+  <Seat>
+    <id>6</id>
+    <nameTable>Bàn 6</nameTable>
+    <statusTable>Trống</statusTable>
+  </Seat>
+  <Seat>
+    <id>7</id>
+    <nameTable>Bàn 7</nameTable>
+    <statusTable>Trống</statusTable>
+  </Seat>
+  <Seat>
+    <id>8</id>
+    <nameTable>Bàn 8</nameTable>
+    <statusTable>Trống</statusTable>
+  </Seat>
+</Seats>

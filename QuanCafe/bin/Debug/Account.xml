@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Accounts>
+	<Account>
+		<username>admin</username> 
+		<password>pointer1</password>
+	</Account>
+	<Account>
+		<username>employee</username> 
+		<password>pointer2</password> 
+	</Account> 
+</Accounts>

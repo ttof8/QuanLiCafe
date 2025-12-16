@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Foods>
+  <Food>
+    <id>1</id>
+    <foodname>Cà phê đen (s)</foodname>
+    <price>20000</price>
+    <idType>1</idType>
+  </Food>
+  <Food>
+    <id>2</id>
+    <foodname>Cà phê sữa</foodname>
+    <price>25000</price>
+    <idType>1</idType>
+  </Food>
+  <Food>
+    <id>3</id>
+    <foodname>Trà sữa trân châu</foodname>
+    <price>30000</price>
+    <idType>2</idType>
+  </Food>
+  <Food>
+    <id>4</id>
+    <foodname>Trà đào cam sả</foodname>
+    <price>35000</price>
+    <idType>2</idType>
+  </Food>
+  <Food>
+    <id>5</id>
+    <foodname>Nước ép cam</foodname>
+    <price>30000</price>
+    <idType>3</idType>
+  </Food>
+  <Food>
+    <id>6</id>
+    <foodname>Nước ép dưa hấu</foodname>
+    <price>28000</price>
+    <idType>3</idType>
+  </Food>
+  <Food>
+    <id>7</id>
+    <foodname>Bánh tiramisu</foodname>
+    <price>40000</price>
+    <idType>4</idType>
+  </Food>
+  <Food>
+    <id>8</id>
+    <foodname>Bánh flan</foodname>
+    <price>15000</price>
+    <idType>4</idType>
+  </Food>
+  <Food>
+    <id>25</id>
+    <foodname>Cà phê sữa</foodname>
+    <price>25000</price>
+    <idType>1</idType>
+  </Food>
+</Foods>
