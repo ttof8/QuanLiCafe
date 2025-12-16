@@ -75,4 +75,44 @@
     <total>20000</total>
     <idSeat>1</idSeat>
   </Bill>
+  <Bill>
+    <id>11</id>
+    <dateCheckIn>2025-12-17T04:04:04</dateCheckIn>
+    <dateCheckOut>2025-12-17T04:04:04</dateCheckOut>
+    <discount>0</discount>
+    <total>20000</total>
+    <idSeat>3</idSeat>
+  </Bill>
+  <Bill>
+    <id>12</id>
+    <dateCheckIn>2025-12-17T04:04:21</dateCheckIn>
+    <dateCheckOut>2025-12-17T04:04:21</dateCheckOut>
+    <discount>0</discount>
+    <total>40000</total>
+    <idSeat>1</idSeat>
+  </Bill>
+  <Bill>
+    <id>13</id>
+    <dateCheckIn>2025-12-17T04:08:32</dateCheckIn>
+    <dateCheckOut>2025-12-17T04:08:32</dateCheckOut>
+    <discount>0</discount>
+    <total>65000</total>
+    <idSeat>1</idSeat>
+  </Bill>
+  <Bill>
+    <id>14</id>
+    <dateCheckIn>2025-12-17T04:08:51</dateCheckIn>
+    <dateCheckOut>2025-12-17T04:08:51</dateCheckOut>
+    <discount>0</discount>
+    <total>25000</total>
+    <idSeat>3</idSeat>
+  </Bill>
+  <Bill>
+    <id>15</id>
+    <dateCheckIn>2025-12-17T04:28:22</dateCheckIn>
+    <dateCheckOut>2025-12-17T04:28:22</dateCheckOut>
+    <discount>0</discount>
+    <total>55000</total>
+    <idSeat>1</idSeat>
+  </Bill>
 </Bills>

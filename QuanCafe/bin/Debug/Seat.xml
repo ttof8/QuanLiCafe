@@ -13,7 +13,7 @@
   <Seat>
     <id>3</id>
     <nameTable>Bàn 3</nameTable>
-    <statusTable>Trống</statusTable>
+    <statusTable>Có khách</statusTable>
   </Seat>
   <Seat>
     <id>4</id>
@@ -33,7 +33,7 @@
   <Seat>
     <id>6</id>
     <nameTable>Bàn 6</nameTable>
-    <statusTable>Trống</statusTable>
+    <statusTable>Có khách</statusTable>
   </Seat>
   <Seat>
     <id>7</id>

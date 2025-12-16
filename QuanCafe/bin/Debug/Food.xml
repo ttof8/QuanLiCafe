@@ -2,7 +2,7 @@
 <Foods>
   <Food>
     <id>1</id>
-    <foodname>Cà phê đen (s)</foodname>
+    <foodname>Cà phê đen</foodname>
     <price>20000</price>
     <idType>1</idType>
   </Food>
@@ -49,9 +49,9 @@
     <idType>4</idType>
   </Food>
   <Food>
-    <id>25</id>
-    <foodname>Cà phê sữa</foodname>
-    <price>25000</price>
-    <idType>1</idType>
+    <id>28</id>
+    <foodname>Bánh kem</foodname>
+    <price>15000</price>
+    <idType>4</idType>
   </Food>
 </Foods>

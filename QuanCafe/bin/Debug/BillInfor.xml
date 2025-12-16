@@ -90,4 +90,52 @@
     <count>1</count>
     <idBill>10</idBill>
   </BillInfo>
+  <BillInfo>
+    <id>16</id>
+    <idFood>9</idFood>
+    <count>1</count>
+    <idBill>11</idBill>
+  </BillInfo>
+  <BillInfo>
+    <id>17</id>
+    <idFood>1</idFood>
+    <count>2</count>
+    <idBill>12</idBill>
+  </BillInfo>
+  <BillInfo>
+    <id>18</id>
+    <idFood>1</idFood>
+    <count>1</count>
+    <idBill>13</idBill>
+  </BillInfo>
+  <BillInfo>
+    <id>19</id>
+    <idFood>9</idFood>
+    <count>1</count>
+    <idBill>13</idBill>
+  </BillInfo>
+  <BillInfo>
+    <id>20</id>
+    <idFood>18</idFood>
+    <count>1</count>
+    <idBill>13</idBill>
+  </BillInfo>
+  <BillInfo>
+    <id>21</id>
+    <idFood>18</idFood>
+    <count>1</count>
+    <idBill>14</idBill>
+  </BillInfo>
+  <BillInfo>
+    <id>22</id>
+    <idFood>1</idFood>
+    <count>1</count>
+    <idBill>15</idBill>
+  </BillInfo>
+  <BillInfo>
+    <id>23</id>
+    <idFood>4</idFood>
+    <count>1</count>
+    <idBill>15</idBill>
+  </BillInfo>
 </BillInfos>

@@ -77,3 +77,16 @@ C:\Users\muctr\Downloads\QuanCafe (2)\QuanCafee\QuanCafe\QuanCafe\obj\Debug\Quan
 C:\Users\muctr\Downloads\QuanCafe (2)\QuanCafee\QuanCafe\QuanCafe\obj\Debug\QuanCafe.csproj.CoreCompileInputs.cache
 C:\Users\muctr\Downloads\QuanCafe (2)\QuanCafee\QuanCafe\QuanCafe\obj\Debug\QuanCafe.exe
 C:\Users\muctr\Downloads\QuanCafe (2)\QuanCafee\QuanCafe\QuanCafe\obj\Debug\QuanCafe.pdb
+C:\Users\muctr\Desktop\workspace\QuanLiCafe\QuanCafee\QuanCafe\QuanCafe\bin\Debug\QuanCafe.exe.config
+C:\Users\muctr\Desktop\workspace\QuanLiCafe\QuanCafee\QuanCafe\QuanCafe\bin\Debug\QuanCafe.exe
+C:\Users\muctr\Desktop\workspace\QuanLiCafe\QuanCafee\QuanCafe\QuanCafe\bin\Debug\QuanCafe.pdb
+C:\Users\muctr\Desktop\workspace\QuanLiCafe\QuanCafee\QuanCafe\QuanCafe\obj\Debug\QuanCafe.csproj.AssemblyReference.cache
+C:\Users\muctr\Desktop\workspace\QuanLiCafe\QuanCafee\QuanCafe\QuanCafe\obj\Debug\QuanCafe.GUI.Admin.resources
+C:\Users\muctr\Desktop\workspace\QuanLiCafe\QuanCafee\QuanCafe\QuanCafe\obj\Debug\QuanCafe.Banner.resources
+C:\Users\muctr\Desktop\workspace\QuanLiCafe\QuanCafee\QuanCafe\QuanCafe\obj\Debug\QuanCafe.Login.resources
+C:\Users\muctr\Desktop\workspace\QuanLiCafe\QuanCafee\QuanCafe\QuanCafe\obj\Debug\QuanCafe.TableManager.resources
+C:\Users\muctr\Desktop\workspace\QuanLiCafe\QuanCafee\QuanCafe\QuanCafe\obj\Debug\QuanCafe.Properties.Resources.resources
+C:\Users\muctr\Desktop\workspace\QuanLiCafe\QuanCafee\QuanCafe\QuanCafe\obj\Debug\QuanCafe.csproj.GenerateResource.cache
+C:\Users\muctr\Desktop\workspace\QuanLiCafe\QuanCafee\QuanCafe\QuanCafe\obj\Debug\QuanCafe.csproj.CoreCompileInputs.cache
+C:\Users\muctr\Desktop\workspace\QuanLiCafe\QuanCafee\QuanCafe\QuanCafe\obj\Debug\QuanCafe.exe
+C:\Users\muctr\Desktop\workspace\QuanLiCafe\QuanCafee\QuanCafe\QuanCafe\obj\Debug\QuanCafe.pdb

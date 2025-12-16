@@ -24,11 +24,9 @@ namespace QuanCafe.GUI
         {
             InitializeComponent();
 
-            // --- 1. LOGIC THỐNG KÊ (Load mặc định khi mở form) ---
             LoadDateTimePickerBill();
             LoadListBillByDate(dtpFromDate.Value, dtpToDate.Value);
 
-            // --- 2. LOGIC THỨC ĂN ---
             dtgvFood.DataSource = foodList;
             LoadListFood();
             LoadCategoryIntoCombobox(cbFoodCategory);
@@ -196,6 +194,7 @@ namespace QuanCafe.GUI
             LoadListFood();
         }
 
+        // --- NÚT THÊM 
         private void btnAddFood_Click(object sender, EventArgs e)
         {
             string name = txbFoodName.Text;
@@ -206,41 +205,67 @@ namespace QuanCafe.GUI
             float.TryParse(priceString, out price);
 
             string query = string.Format("INSERT dbo.Food ( foodname, idType, price ) VALUES  ( N'{0}', {1}, {2})", name, categoryID, price);
+
             if (ExecuteNonQuery(query) > 0)
             {
-                MessageBox.Show("Thêm món thành công (SQL & XML)");
+                MessageBox.Show("Thêm món thành công (Đã lưu SQL & XML)");
+
                 try
                 {
                     object result = ExecuteScalar("SELECT MAX(id) FROM Food");
                     int newID = Convert.ToInt32(result);
+
                     InsertFoodXml(newID, name, price, categoryID);
                 }
-                catch { }
+                catch (Exception ex)
+                {
+                    MessageBox.Show("Lỗi đồng bộ XML: " + ex.Message);
+                }
+
                 LoadListFood();
             }
-            else MessageBox.Show("Có lỗi khi thêm thức ăn vào SQL");
+            else
+            {
+                MessageBox.Show("Có lỗi khi thêm thức ăn vào Database");
+            }
         }
 
+        // --- NÚT SỬA 
         private void btnEditFood_Click(object sender, EventArgs e)
         {
+            if (string.IsNullOrEmpty(txbFoodID.Text))
+            {
+                MessageBox.Show("Vui lòng chọn món cần sửa!", "Thông báo");
+                return;
+            }
+
+            int id = Convert.ToInt32(txbFoodID.Text);
             string name = txbFoodName.Text;
             int categoryID = (int)cbFoodCategory.SelectedValue;
-            int id = Convert.ToInt32(txbFoodID.Text);
 
+            string priceString = txbFoodPrice.Text.Replace(",", "").Replace(".", "").Trim();
             float price = 0;
-            string priceString = txbFoodPrice.Text.Replace(",", "").Replace(".", "");
-            float.TryParse(priceString, out price);
+            if (!float.TryParse(priceString, out price))
+            {
+                MessageBox.Show("Giá tiền không hợp lệ!");
+                return;
+            }
 
-            string query = string.Format("UPDATE dbo.Food SET foodname = N'{0}', idType = {1}, price = {2} WHERE id = {3}", name, categoryID, price, id);
+            string query = string.Format(new System.Globalization.CultureInfo("en-US"),
+                "UPDATE dbo.Food SET foodname = N'{0}', idType = {1}, price = {2} WHERE id = {3}",
+                name, categoryID, price, id);
+
             if (ExecuteNonQuery(query) > 0)
             {
-                MessageBox.Show("Sửa món thành công (SQL & XML)");
-                UpdateFoodXml(id, name, price, categoryID);
-                LoadListFood();
+                MessageBox.Show("Sửa món thành công");
+                UpdateFoodXml(id, name, price, categoryID); 
+                LoadListFood(); 
             }
-            else MessageBox.Show("Có lỗi khi sửa thức ăn trong SQL");
+            else
+            {
+                MessageBox.Show("Lỗi khi sửa! (Có thể do ID không tồn tại hoặc lỗi kết nối)");
+            }
         }
-
         private void btnDeleteFood_Click(object sender, EventArgs e)
         {
             if (string.IsNullOrEmpty(txbFoodID.Text)) return;
@@ -251,13 +276,19 @@ namespace QuanCafe.GUI
                 ExecuteNonQuery("DELETE FROM BillInfo WHERE idFood = " + id);
 
                 string query = string.Format("Delete Food where id = {0}", id);
+
                 if (ExecuteNonQuery(query) > 0)
                 {
-                    MessageBox.Show("Xóa món thành công (SQL & XML)");
-                    DeleteFoodXml(id);
+                    MessageBox.Show("Xóa món thành công ");
+
+                    DeleteFoodXml(id); 
+
                     LoadListFood();
                 }
-                else MessageBox.Show("Có lỗi khi xóa thức ăn trong SQL");
+                else
+                {
+                    MessageBox.Show("Có lỗi khi xóa thức ăn");
+                }
             }
         }
 
@@ -299,7 +330,7 @@ namespace QuanCafe.GUI
                 );
 
                 DataTable data = ExecuteQuery(query);
-                dtgvStatictis.DataSource = data; // Đổ dữ liệu vào bảng thống kê
+                dtgvStatictis.DataSource = data; 
             }
             catch (Exception ex)
             {
@@ -307,17 +338,13 @@ namespace QuanCafe.GUI
             }
         }
 
-        // --- ĐÂY LÀ PHẦN SỬA QUAN TRỌNG NHẤT ---
-        // Sự kiện Click của nút Thống kê (btnStatictis)
         private void btnStatictis_Click(object sender, EventArgs e)
         {
             LoadListBillByDate(dtpFromDate.Value, dtpToDate.Value);
         }
-        // ----------------------------------------
 
         #endregion
 
-        // --- CÁC SỰ KIỆN RÁC (ĐỂ TRÁNH LỖI DESIGNER) ---
         private void dateTimePicker1_ValueChanged(object sender, EventArgs e) { }
         private void tpBill_Click(object sender, EventArgs e) { }
         private void button1_Click(object sender, EventArgs e) { }
@@ -333,6 +360,5 @@ namespace QuanCafe.GUI
         private void btnAddCategory_Click(object sender, EventArgs e) { }
         private void dtgvStatictis_CellContentClick(object sender, DataGridViewCellEventArgs e) { }
         private void dtgvFoods_CellContentClick(object sender, DataGridViewCellEventArgs e) { }
-        // private void btnViewBill_Click(object sender, EventArgs e) {} // Nếu bạn dùng tên cũ thì bỏ comment dòng này
     }
 }

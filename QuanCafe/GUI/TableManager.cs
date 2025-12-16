@@ -513,17 +513,14 @@ namespace QuanCafe
             SyncAllData();
         }
 
-        // --- HÀM TỔNG: ĐIỀU PHỐI VÀ HIỆN THÔNG BÁO CHUNG ---
         void SyncAllData()
         {
             try
             {
-                // Gọi từng hàm và hứng lấy thông báo kết quả trả về
-                string msgCategory = SyncCategoryXml(); // Đồng bộ Danh mục
-                string msgTable = SyncTableXml();       // Đồng bộ Bàn ăn
-                string msgFood = SyncFoodXml();         // Đồng bộ Món ăn
+                string msgCategory = SyncCategoryXml(); 
+                string msgTable = SyncTableXml();       
+                string msgFood = SyncFoodXml();         
 
-                // Tạo thông báo tổng hợp
                 string finalMessage = string.Format(
                     "ĐỒNG BỘ DỮ LIỆU HOÀN TẤT!\n\n" +
                     "{0}\n" +
@@ -539,9 +536,72 @@ namespace QuanCafe
             }
         }
 
-        // ---------------------------------------------------------
-        // HÀM 1: ĐỒNG BỘ DANH MỤC (Trả về thông báo string)
-        // ---------------------------------------------------------
+  
+        // Hàm đồng bộ từ XML vào SQL Server
+        private void SyncXmlToSql()
+        {
+            string xmlPath = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "Food.xml");
+
+            if (!File.Exists(xmlPath))
+            {
+                MessageBox.Show("Không tìm thấy file Food.xml!");
+                return;
+            }
+
+            try
+            {
+                XDocument doc = XDocument.Load(xmlPath);
+
+                int successCount = 0;
+
+                foreach (XElement item in doc.Descendants("Food"))
+                {
+
+                    if (item.Element("id") == null) continue;
+
+                    int id = 0;
+                    if (!int.TryParse(item.Element("id").Value, out id)) continue;
+
+                    string name = item.Element("foodname")?.Value ?? "";
+
+                    float price = 0;
+                    if (item.Element("price") != null)
+                        float.TryParse(item.Element("price").Value, out price);
+
+                    int idType = 1;
+                    if (item.Element("idType") != null)
+                        int.TryParse(item.Element("idType").Value, out idType);
+
+
+                    string checkQuery = "SELECT COUNT(*) FROM Food WHERE id = " + id;
+                    int count = (int)ExecuteScalar(checkQuery);
+
+                    if (count > 0)
+                    {
+                        string updateQuery = string.Format("UPDATE Food SET foodname = N'{0}', price = {1}, idType = {2} WHERE id = {3}", name, price, idType, id);
+                        ExecuteNonQuery(updateQuery);
+                    }
+                    else
+                    {
+                        string insertQuery = string.Format(
+                            "SET IDENTITY_INSERT Food ON; " +
+                            "INSERT INTO Food (id, foodname, idType, price) VALUES ({0}, N'{1}', {2}, {3}); " +
+                            "SET IDENTITY_INSERT Food OFF;",
+                            id, name, idType, price);
+                        ExecuteNonQuery(insertQuery);
+                    }
+
+                    successCount++;
+                }
+
+                MessageBox.Show($"Đã đồng bộ xong {successCount} món ăn từ XML vào SQL!", "Thông báo");
+
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("Lỗi khi đồng bộ XML to SQL: " + ex.Message);
+            }
+        }
         string SyncCategoryXml()
         {
             string path = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "CategoryFood.xml");
@@ -573,9 +633,6 @@ namespace QuanCafe
             return string.Format("- Danh mục: Thêm mới {0}, Cập nhật {1}", inserted, updated);
         }
 
-        // ---------------------------------------------------------
-        // HÀM 2: ĐỒNG BỘ BÀN ĂN (Trả về thông báo string)
-        // ---------------------------------------------------------
         string SyncTableXml()
         {
             string path = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "Seat.xml");
@@ -607,10 +664,6 @@ namespace QuanCafe
             }
             return string.Format("- Bàn ăn: Thêm mới {0}, Cập nhật {1}", inserted, updated);
         }
-
-        // ---------------------------------------------------------
-        // HÀM 3: ĐỒNG BỘ MÓN ĂN (Trả về thông báo string)
-        // ---------------------------------------------------------
         string SyncFoodXml()
         {
             string path = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "Food.xml");
@@ -652,7 +705,7 @@ namespace QuanCafe
 
         private void xMLToSQLToolStripMenuItem_Click_1(object sender, EventArgs e)
         {
-            SyncAllData();
+            SyncXmlToSql();
         }
 
         private void thôngTinCáNhânToolStripMenuItem_Click_1(object sender, EventArgs e)
